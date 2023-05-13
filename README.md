@@ -2,7 +2,7 @@
 [Gmail](makhatarailym@gmail.com) | [Telegram](https://t.me/AraiMahat) | [LinkedIn](https://www.linkedin.com/in/arailym-makhat/) 
 
 
-### 💻 Stack I'm Currently Learning:
+### 💻 Stack I'm Working With:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
